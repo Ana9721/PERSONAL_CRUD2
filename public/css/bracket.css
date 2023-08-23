@@ -2411,7 +2411,7 @@ fieldset[disabled] a.btn {
 
 .btn-block {
   display: block;
-  width: 10%;
+  width: 21%;
 }
 
 .btn-block + .btn-block {
@@ -4381,9 +4381,10 @@ button.close {
     max-width: 300px;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 992px) {  /*modal*/
   .modal-lg {
-    max-width: 800px;
+    width: 90%;
+    max-width: 350px !important;
   }
 }
 .tooltip {

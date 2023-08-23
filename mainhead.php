@@ -1,6 +1,6 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Twitter -->
     <meta name="twitter:site" content="@themepixels">
@@ -35,6 +35,8 @@
 
     <link href="../../public/lib/datatables/jquery.dataTables.css" rel="stylesheet">
     <link href="../../public/datatables/buttons.dataTables.min.css" rel="stylesheet"/>
+
+    <link href="../../public/lib/select2/css/select2.min.css" rel="stylesheet">
 
     <!-- Bracket CSS -->
     <link rel="stylesheet" href="../../public/css/bracket.css">
